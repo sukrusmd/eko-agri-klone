@@ -1,0 +1,36 @@
+.resimSlider{
+    height:600px
+
+}
+body{
+
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    bottom: 0;
+}
+.hakkimizda{
+    background-color: #f2f2f2;
+}
+.ayrac{
+    border:none;
+    border-top:3px solid black;
+    max-width: 200px;
+    margin: 25px auto;}
+
+ 
+.container {
+display: flex;
+align-items: center;
+
+}
+
+.ekipCard img:hover{
+    cursor: pointer;
+    opacity: 0.8;
+}
+.galeri{
+    background-color: #f2f2f2;
+}
+.figure{
+    opacity: 0.8;
+}
